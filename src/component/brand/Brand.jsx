@@ -20,7 +20,6 @@ const Brand = () => {
       <div>
         <img src={shopify} alt="shopify" />
       </div>
-      <h1>Brand</h1>
     </div>
   );
 };
