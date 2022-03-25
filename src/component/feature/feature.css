@@ -1,7 +1,6 @@
 .gpt3__features-container__feature {
   width: 100%;
   display: flex;
-  border: 2px solid red;
   justify-content: space-between;
   align-items: flex-start;
   flex-wrap: wrap;
@@ -11,7 +10,6 @@
 .gpt3__features-container__feature-title {
   flex: 1;
   flex-basis: 100px;
-  border: 2px solid red;
   max-width: 300px;
   margin-right: 2rem;
 }
